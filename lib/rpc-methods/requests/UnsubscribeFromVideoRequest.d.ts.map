@@ -1,0 +1,1 @@
+{"version":3,"file":"UnsubscribeFromVideoRequest.d.ts","sourceRoot":"","sources":["../../../src/rpc-methods/requests/UnsubscribeFromVideoRequest.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,gBAAgB,EAAE,MAAM,0BAA0B,CAAC;AAG5D,UAAU,iCAAiC;IACvC,MAAM,EAAE,MAAM,CAAC;CAClB;AAED,qBAAa,2BAA4B,SAAQ,gBAAgB,CAAC,iCAAiC,EAAE,GAAG,CAAC;IAClF,KAAK,EAAE,iCAAiC;gBAAxC,KAAK,EAAE,iCAAiC;CAG9D"}

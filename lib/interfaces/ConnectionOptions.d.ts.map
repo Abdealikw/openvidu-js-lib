@@ -1,0 +1,1 @@
+{"version":3,"file":"ConnectionOptions.d.ts","sourceRoot":"","sources":["../../src/interfaces/ConnectionOptions.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,oBAAoB,EAAE,MAAM,uBAAuB,CAAC;AAE7D,MAAM,WAAW,kBAAkB;IAC/B,EAAE,EAAE,MAAM,CAAC;IACX,SAAS,CAAC,EAAE,MAAM,CAAC;IACnB,QAAQ,EAAE,MAAM,CAAC;IACjB,OAAO,CAAC,EAAE,oBAAoB,EAAE,CAAC;CACpC"}

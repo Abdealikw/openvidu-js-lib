@@ -1,0 +1,1 @@
+{"version":3,"file":"PublishVideoRequest.js","sourceRoot":"","sources":["../../../src/rpc-methods/requests/PublishVideoRequest.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;AAAA,6DAA4D;AAC5D,2CAA4C;AAqB5C;IAAyC,uCAAuE;IAC5G,6BAAmB,KAAgC;QAAnD,YACI,kBAAM,mBAAS,CAAC,YAAY,CAAC,SAChC;QAFkB,WAAK,GAAL,KAAK,CAA2B;;IAEnD,CAAC;IACL,0BAAC;AAAD,CAAC,AAJD,CAAyC,mCAAgB,GAIxD;AAJY,kDAAmB"}
