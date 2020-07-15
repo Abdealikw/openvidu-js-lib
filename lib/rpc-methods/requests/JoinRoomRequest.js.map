@@ -1,0 +1,1 @@
+{"version":3,"file":"JoinRoomRequest.js","sourceRoot":"","sources":["../../../src/rpc-methods/requests/JoinRoomRequest.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;AAAA,6DAA4D;AAC5D,2CAA4C;AAoB5C;IAAqC,mCAA+D;IAChG,yBAAmB,KAA4B;QAA/C,YACI,kBAAM,mBAAS,CAAC,QAAQ,CAAC,SAC5B;QAFkB,WAAK,GAAL,KAAK,CAAuB;;IAE/C,CAAC;IACL,sBAAC;AAAD,CAAC,AAJD,CAAqC,mCAAgB,GAIpD;AAJY,0CAAe"}
