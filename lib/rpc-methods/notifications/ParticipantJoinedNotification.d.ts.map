@@ -1,0 +1,1 @@
+{"version":3,"file":"ParticipantJoinedNotification.d.ts","sourceRoot":"","sources":["../../../src/rpc-methods/notifications/ParticipantJoinedNotification.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,qBAAqB,EAAE,MAAM,+BAA+B,CAAC;AACtE,OAAO,EAAE,kBAAkB,EAAE,MAAM,oCAAoC,CAAC;AAGxE,qBAAa,6BAA8B,SAAQ,qBAAqB,CAAC,kBAAkB,CAAC;;CAI3F"}

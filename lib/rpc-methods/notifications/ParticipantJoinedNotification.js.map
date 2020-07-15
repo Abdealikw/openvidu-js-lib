@@ -1,0 +1,1 @@
+{"version":3,"file":"ParticipantJoinedNotification.js","sourceRoot":"","sources":["../../../src/rpc-methods/notifications/ParticipantJoinedNotification.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;AAAA,uEAAsE;AAEtE,2CAA4C;AAE5C;IAAmD,iDAAyC;IACxF;eACI,kBAAM,mBAAS,CAAC,iBAAiB,CAAC;IACtC,CAAC;IACL,oCAAC;AAAD,CAAC,AAJD,CAAmD,6CAAqB,GAIvE;AAJY,sEAA6B"}

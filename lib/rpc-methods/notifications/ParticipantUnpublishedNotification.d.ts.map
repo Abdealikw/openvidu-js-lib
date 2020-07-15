@@ -1,0 +1,1 @@
+{"version":3,"file":"ParticipantUnpublishedNotification.d.ts","sourceRoot":"","sources":["../../../src/rpc-methods/notifications/ParticipantUnpublishedNotification.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,qBAAqB,EAAE,MAAM,+BAA+B,CAAC;AAGtE,UAAU,wCAAwC;IAC9C,YAAY,EAAE,MAAM,CAAC;IACrB,MAAM,EAAE,MAAM,CAAC;CAClB;AAED,qBAAa,kCAAmC,SAAQ,qBAAqB,CACzE,wCAAwC,CAC3C;;CAIA"}

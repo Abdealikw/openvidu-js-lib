@@ -1,0 +1,1 @@
+{"version":3,"file":"ParticipantEvictedNotification.d.ts","sourceRoot":"","sources":["../../../src/rpc-methods/notifications/ParticipantEvictedNotification.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,qBAAqB,EAAE,MAAM,+BAA+B,CAAC;AAGtE,MAAM,WAAW,oCAAoC;IACjD,YAAY,EAAE,MAAM,CAAC;IACrB,MAAM,EAAE,MAAM,CAAC;CAClB;AAED,qBAAa,8BAA+B,SAAQ,qBAAqB,CAAC,oCAAoC,CAAC;;CAI9G"}
