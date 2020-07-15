@@ -1,0 +1,1 @@
+{"version":3,"file":"LeaveRoomRequest.js","sourceRoot":"","sources":["../../../src/rpc-methods/requests/LeaveRoomRequest.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;AAAA,6DAA4D;AAC5D,2CAA4C;AAE5C;IAAsC,oCAA2B;IAC7D;eACI,kBAAM,mBAAS,CAAC,SAAS,CAAC;IAC9B,CAAC;IACL,uBAAC;AAAD,CAAC,AAJD,CAAsC,mCAAgB,GAIrD;AAJY,4CAAgB"}

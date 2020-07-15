@@ -1,0 +1,1 @@
+{"version":3,"file":"JsonRPCError.d.ts","sourceRoot":"","sources":["../../src/errors/JsonRPCError.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,sBAAsB,CAAC;AACrD,OAAO,EAAE,SAAS,EAAE,MAAM,aAAa,CAAC;AAExC,qBAAa,YAAa,SAAQ,SAAU,YAAW,aAAa;IACzD,IAAI,EAAE,MAAM,CAAC;IACb,IAAI,CAAC,EAAE,GAAG,CAAC;gBAEN,KAAK,EAAE,aAAa;CAKnC"}

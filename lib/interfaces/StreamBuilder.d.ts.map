@@ -1,0 +1,1 @@
+{"version":3,"file":"StreamBuilder.d.ts","sourceRoot":"","sources":["../../src/interfaces/StreamBuilder.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,WAAW,CAAC;AACrC,OAAO,EAAE,OAAO,EAAE,MAAM,EAAE,MAAM,UAAU,CAAC;AAC3C,OAAO,EAAE,oBAAoB,EAAE,MAAM,uBAAuB,CAAC;AAE7D,qBAAa,aAAc,YAAW,QAAQ,CAAC,OAAO,CAAC;IAC5C,KAAK;IAIL,uBAAuB,CAAC,GAAG,EAAE,oBAAoB,GAAG,OAAO;CAarE"}
